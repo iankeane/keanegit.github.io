@@ -8,7 +8,7 @@ title: Posts
 </p>  
 
 > [ A MAGNIFICENT POST ] ({% post_url 2013-12-31-whats-jekyll.md %})  
-[ A MAGNIFICENT POST ] ({{ site.baseurl }}{% post_url _posts/2013-12-31-whats-jekyll %})  
+[ A MAGNIFICENT POST ] ({{ site.baseurl }}{% post_url 2013-12-31-whats-jekyll %})  
 
 There are currently two themes built on Poole:  
 
