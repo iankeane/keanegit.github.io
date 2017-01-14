@@ -9,7 +9,7 @@ title:               Keane.site
 tagline:             ''
 description:         'Welcome to my personal project repository'
 url:                 http://keane.site
-baseurl:             ''
+baseurl:             'keanegit.github.io'
 paginate:            5
 
 # About/contact
