@@ -1,4 +1,4 @@
-/*
+*
  *                        ___
  *                       /\_ \
  *  _____     ___     ___\//\ \      __
@@ -337,7 +337,7 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: #a0a0a0;
 }
 .page-title,
 .post-title {
