@@ -7,7 +7,7 @@ title: Posts
     DO ALL PAGES SHOW UP IN THE SIDEBAR?  
 </p>  
 
-{% post url <2013-12-31-whats-jekyll.md> %}  
+[ A MAGNIFICENT POST ]{% post url 2013-12-31-whats-jekyll.md %}  
 
 There are currently two themes built on Poole:  
 
