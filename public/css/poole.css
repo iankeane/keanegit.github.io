@@ -341,6 +341,7 @@ tbody tr:nth-child(odd) th {
 }
 .page-title,
 .post-title {
+  color: #a0a0a0;
   margin-top: 0;
 }
 
