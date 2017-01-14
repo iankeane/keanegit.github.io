@@ -84,7 +84,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #313131;
+  color: #a0a0a0;
   text-rendering: optimizeLegibility;
 }
 h1 {
@@ -238,7 +238,7 @@ img {
 table {
   margin-bottom: 1rem;
   width: 100%;
-  border: 1px solid #090909;
+  border: 1px solid #e5e5e5;
   border-collapse: collapse;
 }
 td,
@@ -248,7 +248,7 @@ th {
 }
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: #090909;
+  background-color: #181818;
 }
 
 
