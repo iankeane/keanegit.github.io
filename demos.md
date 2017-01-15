@@ -14,7 +14,7 @@ title: Demos
 > [Spooky Game](https://keanegit.github.io/2017/01/15/Spook-Game/)  
 
 
-## Demos  
+## Algorithm Tests/Demos  
 ---  
 
 > [A-Star](https://keanegit.github.io/2017/01/15/A-Star/)  
@@ -25,9 +25,9 @@ TODO:
 ---  
 <p class="message">  
 Message for each game with:  
- * Image  
- * Link  
- * Writeup  
- * Github Project  
- * Synopsis  
+* Image  
+* Link  
+* Writeup  
+* Github Project  
+* Synopsis  
 </p>  
