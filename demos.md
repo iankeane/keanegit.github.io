@@ -31,3 +31,4 @@ title: Demos
 > * Writeup  
 > * Github Project  
 > * Synopsis  
+> * Controls
