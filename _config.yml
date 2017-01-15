@@ -6,7 +6,7 @@ relative_permalinks: false # Changed to false for github
 
 # Setup
 title:               Ian Keane
-tagline:             '(.com)'
+tagline:             ''
 description:         'Welcome to my personal project repository'
 url:                 http://keane.site
 baseurl:             ''
