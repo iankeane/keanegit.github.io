@@ -3,10 +3,11 @@ layout: post
 title: WyzardeQuest  
 ---  
 
-<div id="canvas"></div>  
 <script src="/_includes/game.min.js" type="text/javascript"></script>  
 
 <script type="text/javascript" src="{% include game.min.js %}"></script>  
+
+<div id="canvas"></div>  
 
 [Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):  
 
