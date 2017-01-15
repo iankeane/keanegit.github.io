@@ -23,11 +23,9 @@ title: Demos
 
 TODO:  
 ---  
-<p class="message">  
-Message for each game with:  
-* Image  
-* Link  
-* Writeup  
-* Github Project  
-* Synopsis  
-</p>  
+> Message for each game with:  
+> * Image  
+> * Link  
+> * Writeup  
+> * Github Project  
+> * Synopsis  
