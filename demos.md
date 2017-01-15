@@ -25,9 +25,9 @@ TODO:
 ---  
 <p class="message">  
 Message for each game with:  
-* Image  
-* Link  
-* Writeup  
-* Github Project  
-* Synopsis  
+ * Image  
+ * Link  
+ * Writeup  
+ * Github Project  
+ * Synopsis  
 </p>  
