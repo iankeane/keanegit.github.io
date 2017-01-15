@@ -3,7 +3,7 @@ layout: post
 title: WyzardeQuest  
 ---  
 
-<div id="canvas"></canvas>  
+<div id="canvas"></div>  
 <script src="/_includes/game.min.js" type="text/javascript"></script>  
 
 <script type="text/javascript" src="{% include game.min.js %}"></script>  
