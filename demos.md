@@ -19,11 +19,9 @@ title: Demos
 ## Demos  
 ---  
 
-<p class="message">  
 [A-Star](https://keanegit.github.io/2017/01/15/A-Star/)  
 [Map Generator](https://keanegit.github.io/2017/01/15/Load-Map/)  
 
-</p>  
 
 TODO:  
 ---  
