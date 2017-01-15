@@ -7,6 +7,7 @@ title: Demos
 ---  
 
 > [Wyzarde Quest](https://keanegit.github.io/2017/01/15/WyzardeQuest/)  
+> [Wyzarde Quest](https://keanegit.github.io/js/WyzardeQuest/index.html)
 > [Ship Game](https://keanegit.github.io/2017/01/15/Ship-Game/)  
 > [The Working Dead](https://keanegit.github.io/2017/01/15/Working-Dead/)  
 > [Chaos Clones](https://keanegit.github.io/2017/01/15/Chaos-Clones/)  
